@@ -21,7 +21,7 @@ Questo progetto è una versione digitale del classico gioco da tavolo Monopoly, 
 
 ## Come compilare ed eseguire il gioco
 
-⚠️ **Nota:** Il file `.jar` non è incluso nel repository. Devi crearlo seguendo questi passaggi:
+**Nota:** Il file `.jar` non è incluso nel repository. Devi crearlo seguendo questi passaggi:
 
 1. **Compila tutti i file Java** (dalla cartella principale del progetto):
    ```sh
