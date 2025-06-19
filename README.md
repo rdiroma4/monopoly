@@ -51,6 +51,3 @@ java -cp bin Monopoly
 ## Crediti
 - Sviluppato da Silla Federico e Trebbi Francesco
 - Immagini e risorse: proprietà degli autori
-
-## Licenza
-Questo progetto è distribuito per scopi didattici. Verificare eventuali restrizioni sulle immagini e sulle risorse grafiche incluse.
