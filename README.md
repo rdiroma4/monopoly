@@ -49,5 +49,5 @@ java -cp bin Monopoly
 ```
 
 ## Crediti
-- Sviluppato da Silla Federico e Trebbi Francesco
+- Sviluppato da Silla Federico e Francesco
 - Immagini e risorse: proprietà degli autori
