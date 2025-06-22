@@ -14,7 +14,6 @@ Questo progetto è una versione digitale del classico gioco da tavolo Monopoly, 
 ## Struttura del progetto
 - `src/` — Codice sorgente Java e risorse grafiche
 - `bin/` — File compilati e risorse per l'esecuzione (verrà creata dopo la compilazione)
-- `README.md` — Questo file
 
 ## Requisiti
 - Java 8 o superiore
